@@ -38,9 +38,10 @@ The cleaner also fixes common typos (e.g., `hear_rate` → `heart_rate`, `entrop
 
 ---
 
-## 🧪 Reproduce Locall<img width="800" height="400" alt="activity_counts" src="https://github.com/user-attachments/assets/70b29cf1-2f30-4094-8051-6e41864f3cff" />
 
-y
+
+y<img width="800" height="400" alt="scatter_steps_vs_heart_rate" src="https://github.com/user-attachments/assets/acc4d73f-94c4-4e94-9678-72060e087c7c" />
+
 
 ### 1) Create env & install deps
 ```bash
