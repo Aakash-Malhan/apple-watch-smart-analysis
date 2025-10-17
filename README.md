@@ -2,7 +2,8 @@
 
 Analyze Apple Watch / fitness data to understand activity patterns, cardio response, and relationships across steps, heart rate, calories, and distance.
 
-## 🔍 Summary
+## 🔍 Su<img width="800" height="400" alt="activity_counts" src="https://github.com/user-attachments/assets/4eec4864-4785-4273-8edc-5c2f4387f108" />
+mmary
 
 - **Goal:** Exploratory data analysis & clear visualizations for health/activity metrics.
 - **Data:** Apple Watch / Fitbit–like CSVs; combined and cleaned into `clean_apple_watch.csv`.
@@ -37,7 +38,9 @@ The cleaner also fixes common typos (e.g., `hear_rate` → `heart_rate`, `entrop
 
 ---
 
-## 🧪 Reproduce Locally
+## 🧪 Reproduce Locall<img width="800" height="400" alt="activity_counts" src="https://github.com/user-attachments/assets/70b29cf1-2f30-4094-8051-6e41864f3cff" />
+
+y
 
 ### 1) Create env & install deps
 ```bash
