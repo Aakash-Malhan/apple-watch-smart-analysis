@@ -2,7 +2,7 @@
 
 Analyze Apple Watch / fitness data to understand activity patterns, cardio response, and relationships across steps, heart rate, calories, and distance.
 
-## 🔍 Su<img width="800" height="400" alt="activity_counts" src="https://github.com/user-attachments/assets/4eec4864-4785-4273-8edc-5c2f4387f108" />
+## 🔍 Summary<img width="800" height="400" alt="activity_counts" src="https://github.com/user-attachments/assets/4eec4864-4785-4273-8edc-5c2f4387f108" />
 mmary
 
 - **Goal:** Exploratory data analysis & clear visualizations for health/activity metrics.
